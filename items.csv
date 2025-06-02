@@ -1,0 +1,51 @@
+name,display_name,scientific_name,category,lookalike_group,toxicity_level,requires_cooking,edible_raw,hunger,morale,energy,description,region,identified,plant_guide_feature
+
+jerky,Jerky,jerky,meat,undecided,0,False,True,5,2,3,"Few scraps of dried meat you have laying around",NoBiome,True,False
+flint_and_steel,flintandsteel,fns,fire_starter,undecided,0,False,False,0,0,0,"stone and steel for starting fires",NoBiome,True,Fase
+tinder,Tinder,Tindr,fire_starter,undecided,0,False,True,0,-3,0,"its tinder",NoBiome,True,False
+pot,Pot,pott,cooking_item,undecided,0,False,False,0,0,0,"its a pot",NoBiome,True,False
+golden_trumpet,Golden Trumpet,Craterellus tubaeformis,mushroom,golden_group,0,False,True,5,2,1,"Trumpet shape, wavy edges",Cool Damp Coast,False,True
+false_golden_cap,False Golden Cap,Omphalotus olivascens,mushroom,golden_group,3,True,False,-10,-5,-5,"Bioluminescent, gills glow faintly",Cool Damp Coast,False,True
+shore_pine_bolete,Shore Pine Bolete,Suillus tomentosus,mushroom,,0,True,False,6,1,2,"Sticky yellow cap, faint pores",Cool Damp Coast,False,True
+salal_berry,Salal Berry,Gaultheria shallon,fruit,,0,False,True,3,3,1,"Sweet dark berries on evergreen shrub",Cool Damp Coast,False,True
+deadly_nightberry,Deadly Nightberry,Solanum nigrum,fruit,nightshade_group,3,False,True,-20,-10,-10,"Black shiny berries, nightshade family",Cool Damp Coast,False,True
+red_thimbleberry,Red Thimbleberry,Rubus parviflorus,fruit,,0,False,True,4,2,1,"Soft seedy berry with maple-like leaves",Cool Damp Coast,False,True
+sea_lettuce,Sea Lettuce,Ulva lactuca,green,,0,False,True,2,1,0,"Flat green algae, edible raw",Cool Damp Coast,False,True
+wood_sorrel,Wood Sorrel,Oxalis oregana,green,,0,False,True,2,2,1,"Clover-like leaves with tangy flavor",Cool Damp Coast,False,True
+false_sorrel,False Sorrel,Rumex crispus,green,,1,True,False,-1,0,0,"Bitter-tasting leaves, needs cooking",Cool Damp Coast,False,True
+candy_cap,Candy Cap,Lactarius rubidus,mushroom,,0,False,True,6,3,2,"Sweet-smelling, reddish-orange cap",Coastal Mountains,False,True
+waxy_cap_mimic,Waxy Cap Mimic,Hygrocybe spp.,mushroom,,1,False,False,-5,0,0,"Glossy cap, fragile gills",Coastal Mountains,False,True
+white_russula,White Russula,Russula brevipes,mushroom,,0,False,True,5,2,2,"Crumbling white flesh, thick stem",Coastal Mountains,False,True
+red_huckleberry,Red Huckleberry,Vaccinium parvifolium,fruit,,0,False,True,3,3,1,"Tart bright red berries, thin branches",Coastal Mountains,False,True
+salmonberry,Salmonberry,Rubus spectabilis,fruit,,0,False,True,3,2,1,"Orange-red, soft drupelets",Coastal Mountains,False,True
+bitterberry,Bitterberry,Prunus emarginata,fruit,,1,True,False,-3,-1,-1,"Bitter taste, cherry-like shape",Coastal Mountains,False,True
+fiddlehead_fern,Fiddlehead Fern,Matteuccia struthiopteris,green,,1,True,False,3,2,2,"Curled shoots, must be cooked",Coastal Mountains,False,True
+miners_lettuce,Miner’s Lettuce,Claytonia perfoliata,green,,0,False,True,2,1,1,"Round leaf growing through the stem",Coastal Mountains,False,True
+wild_rhubarb,Wild Rhubarb,Rumex spp.,green,,1,True,False,-2,0,0,"Large leaves, sour stem, cook required",Coastal Mountains,False,True
+pacific_morel,Pacific Morel,Morchella elata,mushroom,morel_group,1,True,False,6,2,2,"Honeycombed cap, must be cooked",Temperate Rainforest Valley,False,True
+false_morel,False Morel,Gyromitra esculenta,mushroom,morel_group,3,True,False,-15,-10,-10,"Wrinkled false cap, deadly twin",Temperate Rainforest Valley,False,True
+shaggy_mane,Shaggy Mane,Coprinus comatus,mushroom,,0,False,True,5,2,1,"White shaggy cap, fragile when handled",Temperate Rainforest Valley,False,True
+evergreen_blackberry,Evergreen Blackberry,Rubus laciniatus,fruit,,0,False,True,3,2,1,"Sharp thorned vines with sweet berries",Temperate Rainforest Valley,False,True
+oregon_grape,Oregon Grape,Mahonia aquifolium,fruit,,0,False,True,2,1,1,"Tart purple berries, spiny leaves",Temperate Rainforest Valley,False,True
+poisonberry,Poisonberry,Daphne mezereum,fruit,daphne_group,3,False,False,-10,-10,-10,"Bright red berries, waxy and toxic",Temperate Rainforest Valley,False,True
+stinging_nettle,Stinging Nettle,Urtica dioica,green,,1,True,False,4,2,2,"Serrated leaves, stings when raw",Temperate Rainforest Valley,False,True
+chickweed,Chickweed,Stellaria media,green,,0,False,True,2,2,1,"Delicate leaves with star-shaped flowers",Temperate Rainforest Valley,False,True
+cursed_buttercup,Cursed Buttercup,Ranunculus spp.,green,,2,True,False,-5,0,0,"Glossy leaves, yellow flowers, mildly toxic",Temperate Rainforest Valley,False,True
+king_bolete,King Bolete,Boletus edulis,mushroom,,0,False,True,6,3,3,"Thick stem, sponge-like pores, prized edible",Subalpine Forest,False,True
+red_cracked_bolete,Red Cracked Bolete,Xerocomellus chrysenteron,mushroom,boletus_group,1,False,True,2,0,1,"Bitter taste, cracking cap",Subalpine Forest,False,True
+woolly_milkcap,Woolly Milkcap,Lactarius pubescens,mushroom,,1,True,False,3,1,1,"Hairy cap, must cook well",Subalpine Forest,False,True
+mountain_strawberry,Mountain Strawberry,Fragaria virginiana,fruit,,0,False,True,3,2,1,"Small red berries with strong flavor",Subalpine Forest,False,True
+highbush_cranberry,Highbush Cranberry,Viburnum edule,fruit,,0,False,True,2,1,1,"Clusters of red berries, tart and juicy",Subalpine Forest,False,True
+baneberry,Baneberry,Actaea rubra,fruit,bane_group,3,False,False,-20,-15,-15,"Glossy red or white berries, highly poisonous",Subalpine Forest,False,True
+fireweed_shoots,Fireweed Shoots,Chamaenerion angustifolium,green,,0,False,True,2,2,2,"Tender tips edible early season",Subalpine Forest,False,True
+lambs_quarters,Lamb’s Quarters,Chenopodium album,green,,0,False,True,3,1,1,"Spinach-like wild green",Subalpine Forest,False,True
+false_hellebore,False Hellebore,Veratrum viride,green,,3,False,False,-25,-20,-20,"Large broad leaves, extremely toxic",Subalpine Forest,False,True
+snowbank_mushroom,Snowbank Mushroom,Hygrophorus marzuolus,mushroom,,0,False,True,5,2,2,"Grows near melting snow, smooth cap",Alpine Mountain Peak,False,True
+alpine_laccaria,Alpine Laccaria,Laccaria montana,mushroom,,0,False,True,4,2,1,"Purple-tinged gills, edible",Alpine Mountain Peak,False,True
+frostcap,Frostcap,Mycena pura,mushroom,laccaria_group,1,False,False,-3,0,0,"Delicate pastel cap, mildly toxic",Alpine Mountain Peak,False,True
+dwarf_bilberry,Dwarf Bilberry,Vaccinium caespitosum,fruit,,0,False,True,3,2,1,"Low-growing, sweet small berries",Alpine Mountain Peak,False,True
+white_alpine_berry,White Alpine Berry,Rubus arcticus,fruit,,0,False,True,3,3,1,"Delicate pale berries, rare and sweet",Alpine Mountain Peak,False,True
+snowberry,Snowberry,Symphoricarpos albus,fruit,snow_group,3,False,False,-15,-10,-10,"White waxy berries, toxic if eaten",Alpine Mountain Peak,False,True
+mountain_sorrel,Mountain Sorrel,Oxyria digyna,green,,0,False,True,2,2,1,"Tangy red-stemmed leaves",Alpine Mountain Peak,False.True
+alpine_chickweed,Alpine Chickweed,Cerastium arvense,green,,0,False,True,2,1,1,"White flowers, fuzzy leaves, edible",Alpine Mountain Peak,False,True
+arnica_leaves,Arnica Leaves,Arnica montana,green,,2,False,False,-5,0,0,"Bright yellow flowers, leaves toxic raw",Alpine Mountain Peak,False,True

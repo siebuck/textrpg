@@ -1,0 +1,7 @@
+id,stat_type,stat_level,modifier_phrase
+mod_001,morale,low,You tense, sensing a threat.
+mod_002,morale,high,You note it with calm curiosity.
+mod_003,energy,low,You can’t make sense of it.
+mod_004,energy,high,You’re alert to every detail.
+mod_005,hunger,low,Your empty stomach distracts you.
+mod_006,hunger,high,You listen more carefully, fed and focused.

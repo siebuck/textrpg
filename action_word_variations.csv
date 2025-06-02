@@ -1,0 +1,39 @@
+import pandas as pd
+
+# Define updated word variations with neutral, grounded tone.
+data = [
+    # Eating always reflects hunger; repetition just varies style slightly
+    {"action_type": "eat_action", "level": "low", "variation": "devour"},
+    {"action_type": "eat_action", "level": "low", "variation": "consume"},
+    {"action_type": "eat_action", "level": "low", "variation": "eat"},
+    {"action_type": "eat_action", "level": "low", "variation": "chew"},
+    {"action_type": "eat_action", "level": "low", "variation": "tear into"},
+    {"action_type": "eat_action", "level": "med", "variation": "chew"},
+    {"action_type": "eat_action", "level": "med", "variation": "bite"},
+    {"action_type": "eat_action", "level": "med", "variation": "swallow"},
+    {"action_type": "eat_action", "level": "high", "variation": "consume"},
+    {"action_type": "eat_action", "level": "high", "variation": "eat"},
+
+    # Walking verbs for various energy levels
+    {"action_type": "walk_action", "level": "low", "variation": "trudge"},
+    {"action_type": "walk_action", "level": "low", "variation": "stumble"},
+    {"action_type": "walk_action", "level": "med", "variation": "walk"},
+    {"action_type": "walk_action", "level": "med", "variation": "step"},
+    {"action_type": "walk_action", "level": "high", "variation": "stride"},
+    {"action_type": "walk_action", "level": "high", "variation": "press forward"},
+
+    # Wait actions
+    {"action_type": "wait_action", "level": "low", "variation": "pause"},
+    {"action_type": "wait_action", "level": "med", "variation": "remain still"},
+    {"action_type": "wait_action", "level": "high", "variation": "wait"},
+
+    # Sleep actions (based on energy, not emotion)
+    {"action_type": "sleep_action", "level": "low", "variation": "collapse"},
+    {"action_type": "sleep_action", "level": "med", "variation": "lie down"},
+    {"action_type": "sleep_action", "level": "high", "variation": "sleep"}
+]
+
+df = pd.DataFrame(data)
+csv_path = "/mnt/data/action_word_variations.csv"
+df.to_csv(csv_path, index=False)
+csv_path

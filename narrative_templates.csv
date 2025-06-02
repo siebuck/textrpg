@@ -1,0 +1,33 @@
+context,template,type
+travel,The {biome} stretches ahead. {weather_feeling},stat
+travel,Time passes in the {biome}. {hunger_level},stat
+travel,Steps accumulate underfoot. {energy_feeling} {weather_feeling},stat
+travel,Another hour gone. {morale_reaction},stat
+travel,"Through the {biome}, the trail shifts. {weather_feeling}",stat
+travel,The wind patterns shift around the ridges.,universal
+travel,The landscape changes almost imperceptibly.,universal
+travel,Footsteps echo softly.,universal
+travel,Nothing interrupts the motion.,universal
+sleep,Night deepens. {fire_status},stat
+sleep,Rest comes in fragments. {dream_hint},stat
+sleep,The dark presses in from every direction. {fire_status},stat
+sleep,Muscles slacken in the still air. {weather_feeling},stat
+sleep,Sleep passes without color. {dream_hint},stat
+sleep,A faint sound stirs the edge of awareness.,universal
+eat,The food settles in the gut. {hunger_level},stat
+eat,"Familiar texture, nothing more. {energy_feeling}",stat
+eat,There is little joy in this meal. {morale_reaction},stat
+eat,The act of eating becomes a ritual. {weather_feeling},stat
+eat,Chewed and swallowed. {energy_feeling},stat
+eat,Nothing changes after the last bite.,universal
+wait,Time dilates. {weather_feeling},stat
+wait,"There is stillness, but not peace. {morale_reaction}",stat
+wait,Hours pass. Nothing answers. {weather_feeling},stat
+wait,The stillness is complete. {fire_status},stat
+wait,Silence settles. {energy_feeling},stat
+wait,No signals. Just breath and body.,universal
+campfire,The fire cracks faintly. {fire_status},stat
+campfire,A small perimeter of warmth. {weather_feeling},stat
+campfire,Shadows flicker. {morale_reaction},stat
+campfire,No stories tonight. Just heat and time.,universal
+campfire,The logs shift and split with sound.,universal

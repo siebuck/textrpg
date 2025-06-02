@@ -1,0 +1,6 @@
+biome_name,base_hours,avg_angle_deg,intro_text,clear,rain,fog,storm,cold,wind
+Cool Damp Coast,4,2,"The sea murmurs behind you as you enter windswept shore pines.",0.35,0.15,0.20,0.05,0.10,0.15
+Coastal Mountains,7,10,"Steep ridges and mossy boulders make your path uneven.",0.30,0.20,0.20,0.10,0.10,0.10
+Temperate Rainforest Valley,6,4,"Ancient trees surround you in a cathedral of ferns and mist.",0.25,0.35,0.20,0.05,0.10,0.05
+Subalpine Forest,8,12,"Scrubby pines and sudden drop-offs signal you're nearing the tree line.",0.20,0.20,0.15,0.10,0.20,0.15
+Alpine Mountain Peak,10,25,"Above the forest, only snow, wind, and stone remain.",0.10,0.10,0.05,0.15,0.30,0.30
