@@ -1,0 +1,8 @@
+id,category,response_phrase
+res_001,environment,"It fades before you can place it."
+res_002,environment,"You stop for a moment, unsure."
+res_003,plants,"The motion stops as quickly as it came."
+res_004,sky,"The shape is gone now."
+res_005,animal,"The sound moves farther away."
+res_006,weather,"The weather presses in again."
+res_007,self,"You try to ignore it, but can’t."

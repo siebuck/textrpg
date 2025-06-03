@@ -1,0 +1,11 @@
+id,category,base_phrase,weather_condition
+amb_001,environment,A sound stirs in the brush.,any
+amb_002,environment,The air is unusually still.,clear
+amb_003,plants,A crooked pine creaks nearby.,wind
+amb_004,sky,A shape moves across the sky.,any
+amb_005,animal,A distant cry cuts through the trees.,any
+amb_006,weather,The fog thickens between the trees.,fog
+amb_007,self,Something brushes past your thoughts.,any
+amb_008,environment,Leaves shift overhead.,wind
+amb_009,sky,Clouds churn quietly above.,storm
+amb_010,animal,Wings beat in the dark canopy.,any

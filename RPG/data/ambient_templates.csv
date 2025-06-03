@@ -1,0 +1,79 @@
+base_phrase,weather_condition,category,modifier_phrase,stat_type,stat_level,response_phrase
+A sound stirs in the brush.,any,environment, sensing a threat.,low,You tense,It fades before you can place it.
+A sound stirs in the brush.,any,environment, sensing a threat.,low,You tense,"You stop for a moment, unsure."
+A sound stirs in the brush.,any,environment,,high,You note it with calm curiosity.,It fades before you can place it.
+A sound stirs in the brush.,any,environment,,high,You note it with calm curiosity.,"You stop for a moment, unsure."
+A sound stirs in the brush.,any,environment,,low,You can’t make sense of it.,It fades before you can place it.
+A sound stirs in the brush.,any,environment,,low,You can’t make sense of it.,"You stop for a moment, unsure."
+A sound stirs in the brush.,any,environment,,high,You’re alert to every detail.,It fades before you can place it.
+A sound stirs in the brush.,any,environment,,high,You’re alert to every detail.,"You stop for a moment, unsure."
+A sound stirs in the brush.,any,environment,,low,Your empty stomach distracts you.,It fades before you can place it.
+A sound stirs in the brush.,any,environment,,low,Your empty stomach distracts you.,"You stop for a moment, unsure."
+A sound stirs in the brush.,any,environment, fed and focused.,high,You listen more carefully,It fades before you can place it.
+A sound stirs in the brush.,any,environment, fed and focused.,high,You listen more carefully,"You stop for a moment, unsure."
+The air is unusually still.,clear,environment, sensing a threat.,low,You tense,It fades before you can place it.
+The air is unusually still.,clear,environment, sensing a threat.,low,You tense,"You stop for a moment, unsure."
+The air is unusually still.,clear,environment,,high,You note it with calm curiosity.,It fades before you can place it.
+The air is unusually still.,clear,environment,,high,You note it with calm curiosity.,"You stop for a moment, unsure."
+The air is unusually still.,clear,environment,,low,You can’t make sense of it.,It fades before you can place it.
+The air is unusually still.,clear,environment,,low,You can’t make sense of it.,"You stop for a moment, unsure."
+The air is unusually still.,clear,environment,,high,You’re alert to every detail.,It fades before you can place it.
+The air is unusually still.,clear,environment,,high,You’re alert to every detail.,"You stop for a moment, unsure."
+The air is unusually still.,clear,environment,,low,Your empty stomach distracts you.,It fades before you can place it.
+The air is unusually still.,clear,environment,,low,Your empty stomach distracts you.,"You stop for a moment, unsure."
+The air is unusually still.,clear,environment, fed and focused.,high,You listen more carefully,It fades before you can place it.
+The air is unusually still.,clear,environment, fed and focused.,high,You listen more carefully,"You stop for a moment, unsure."
+A crooked pine creaks nearby.,wind,plants, sensing a threat.,low,You tense,The motion stops as quickly as it came.
+A crooked pine creaks nearby.,wind,plants,,high,You note it with calm curiosity.,The motion stops as quickly as it came.
+A crooked pine creaks nearby.,wind,plants,,low,You can’t make sense of it.,The motion stops as quickly as it came.
+A crooked pine creaks nearby.,wind,plants,,high,You’re alert to every detail.,The motion stops as quickly as it came.
+A crooked pine creaks nearby.,wind,plants,,low,Your empty stomach distracts you.,The motion stops as quickly as it came.
+A crooked pine creaks nearby.,wind,plants, fed and focused.,high,You listen more carefully,The motion stops as quickly as it came.
+A shape moves across the sky.,any,sky, sensing a threat.,low,You tense,The shape is gone now.
+A shape moves across the sky.,any,sky,,high,You note it with calm curiosity.,The shape is gone now.
+A shape moves across the sky.,any,sky,,low,You can’t make sense of it.,The shape is gone now.
+A shape moves across the sky.,any,sky,,high,You’re alert to every detail.,The shape is gone now.
+A shape moves across the sky.,any,sky,,low,Your empty stomach distracts you.,The shape is gone now.
+A shape moves across the sky.,any,sky, fed and focused.,high,You listen more carefully,The shape is gone now.
+A distant cry cuts through the trees.,any,animal, sensing a threat.,low,You tense,The sound moves farther away.
+A distant cry cuts through the trees.,any,animal,,high,You note it with calm curiosity.,The sound moves farther away.
+A distant cry cuts through the trees.,any,animal,,low,You can’t make sense of it.,The sound moves farther away.
+A distant cry cuts through the trees.,any,animal,,high,You’re alert to every detail.,The sound moves farther away.
+A distant cry cuts through the trees.,any,animal,,low,Your empty stomach distracts you.,The sound moves farther away.
+A distant cry cuts through the trees.,any,animal, fed and focused.,high,You listen more carefully,The sound moves farther away.
+The fog thickens between the trees.,fog,weather, sensing a threat.,low,You tense,The weather presses in again.
+The fog thickens between the trees.,fog,weather,,high,You note it with calm curiosity.,The weather presses in again.
+The fog thickens between the trees.,fog,weather,,low,You can’t make sense of it.,The weather presses in again.
+The fog thickens between the trees.,fog,weather,,high,You’re alert to every detail.,The weather presses in again.
+The fog thickens between the trees.,fog,weather,,low,Your empty stomach distracts you.,The weather presses in again.
+The fog thickens between the trees.,fog,weather, fed and focused.,high,You listen more carefully,The weather presses in again.
+Something brushes past your thoughts.,any,self, sensing a threat.,low,You tense,"You try to ignore it, but can’t."
+Something brushes past your thoughts.,any,self,,high,You note it with calm curiosity.,"You try to ignore it, but can’t."
+Something brushes past your thoughts.,any,self,,low,You can’t make sense of it.,"You try to ignore it, but can’t."
+Something brushes past your thoughts.,any,self,,high,You’re alert to every detail.,"You try to ignore it, but can’t."
+Something brushes past your thoughts.,any,self,,low,Your empty stomach distracts you.,"You try to ignore it, but can’t."
+Something brushes past your thoughts.,any,self, fed and focused.,high,You listen more carefully,"You try to ignore it, but can’t."
+Leaves shift overhead.,wind,environment, sensing a threat.,low,You tense,It fades before you can place it.
+Leaves shift overhead.,wind,environment, sensing a threat.,low,You tense,"You stop for a moment, unsure."
+Leaves shift overhead.,wind,environment,,high,You note it with calm curiosity.,It fades before you can place it.
+Leaves shift overhead.,wind,environment,,high,You note it with calm curiosity.,"You stop for a moment, unsure."
+Leaves shift overhead.,wind,environment,,low,You can’t make sense of it.,It fades before you can place it.
+Leaves shift overhead.,wind,environment,,low,You can’t make sense of it.,"You stop for a moment, unsure."
+Leaves shift overhead.,wind,environment,,high,You’re alert to every detail.,It fades before you can place it.
+Leaves shift overhead.,wind,environment,,high,You’re alert to every detail.,"You stop for a moment, unsure."
+Leaves shift overhead.,wind,environment,,low,Your empty stomach distracts you.,It fades before you can place it.
+Leaves shift overhead.,wind,environment,,low,Your empty stomach distracts you.,"You stop for a moment, unsure."
+Leaves shift overhead.,wind,environment, fed and focused.,high,You listen more carefully,It fades before you can place it.
+Leaves shift overhead.,wind,environment, fed and focused.,high,You listen more carefully,"You stop for a moment, unsure."
+Clouds churn quietly above.,storm,sky, sensing a threat.,low,You tense,The shape is gone now.
+Clouds churn quietly above.,storm,sky,,high,You note it with calm curiosity.,The shape is gone now.
+Clouds churn quietly above.,storm,sky,,low,You can’t make sense of it.,The shape is gone now.
+Clouds churn quietly above.,storm,sky,,high,You’re alert to every detail.,The shape is gone now.
+Clouds churn quietly above.,storm,sky,,low,Your empty stomach distracts you.,The shape is gone now.
+Clouds churn quietly above.,storm,sky, fed and focused.,high,You listen more carefully,The shape is gone now.
+Wings beat in the dark canopy.,any,animal, sensing a threat.,low,You tense,The sound moves farther away.
+Wings beat in the dark canopy.,any,animal,,high,You note it with calm curiosity.,The sound moves farther away.
+Wings beat in the dark canopy.,any,animal,,low,You can’t make sense of it.,The sound moves farther away.
+Wings beat in the dark canopy.,any,animal,,high,You’re alert to every detail.,The sound moves farther away.
+Wings beat in the dark canopy.,any,animal,,low,Your empty stomach distracts you.,The sound moves farther away.
+Wings beat in the dark canopy.,any,animal, fed and focused.,high,You listen more carefully,The sound moves farther away.
